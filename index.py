@@ -1,6 +1,6 @@
 """
-Name: Lakshay
-Roll No: 2301010306
+Name: Manish Pandey
+Roll No: 2301010302
 Course: Image Processing & Computer Vision
 Assignment Title: Intelligent Image Enhancement & Analysis System
 Date:
